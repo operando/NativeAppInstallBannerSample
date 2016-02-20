@@ -14,4 +14,4 @@ https://developers.google.com/web/fundamentals/engage-and-retain/app-install-ban
 
 ## Images
 
-<img src="./art/hammerheadMMB29Qshinobu02202016174259.gif" height="400" />
+<img src="./art/hammerheadMMB29Qshinobu02202016174259.gif" height="500" />
