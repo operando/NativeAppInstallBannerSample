@@ -1,0 +1,18 @@
+{
+  "name": "Native App Install Banner Sample",
+  "short_name": "Native App Install Banner Sample",
+  "icons": [
+    {
+      "src": "images/icon-3x.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "io.github.droidkaigi.confsched"
+    }
+  ]
+}
